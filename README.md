@@ -9,9 +9,9 @@ int main ()  {
   char inicial = 's'
  
 
-  printf("idade: %d\\n", idade);
-  printf("peso: %.1f\\n", peso);
-  printf("inicial: %c\\n", inicial);
+  printf("idade: %d\n", idade);
+  printf("peso: %.1f\n", peso);
+  printf("inicial: %c\n", inicial);
 
   return 0;
  }
